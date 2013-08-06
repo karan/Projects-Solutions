@@ -33,8 +33,6 @@ Numbers
 
 **Tax Calculator** - Asks the user to enter a cost and either a country or state tax. It then returns the tax plus the total cost with tax.
 
-**Dijkstra’s Algorithm** - Create a program that finds the shortest path through a graph using its edges.
-
 **Factorial Finder** - The Factorial of a positive integer, n, is defined as the product of the sequence n, n-1, n-2, ...1 and the factorial of zero, 0, is defined as being 1. Solve this using both loops and recursion.
 
 **Complex Number Algebra** - Show addition, multiplication, negation, and inversion of complex numbers in separate functions. (Subtraction and division operations can be made with pairs of these operations.) Print the results for each operation tested.
@@ -43,6 +41,16 @@ Numbers
 
 **Number Names** - Show how to spell out a number in English. You can use a preexisting implementation or roll your own, but you should support inputs up to at least one million (or the maximum value of your language's default bounded integer type, if that's less). *Optional: Support for inputs other than positive integers (like zero, negative integers, and floating-point numbers).*
 
+Graphs
+---------
+
+**Graph from links** - Create a program that will create a graph or network from a series of links.[[grimley517 (Python)]](https://github.com/grimley517/Projects/blob/graph1/Graphs/GfmLinks.py)
+
+**Eulerian Path** - Create a program which will take as an input a graph and output either a Eulerian path or a Eulerian cycle, or state that it is not possible.  A Eulerian Path starts at one node and traverses every edge of a graph  through every node and finishes at another node.  A Eulerian cycle is a eulerian Path that starts and finishes at the same node.
+
+**Connected Graph** - Create a program which takes a graph as an input and outputs whether every node is connected or not.
+
+**Dijkstra’s Algorithm** - Create a program that finds the shortest path through a graph using its edges.
 Text
 ---------
 
