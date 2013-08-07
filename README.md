@@ -7,7 +7,7 @@ Numbers
 
 **Find PI to the Nth Digit** - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go. [[MrBlaise (Python)]](https://github.com/MrBlaise/learnpython/blob/master/Numbers/pi.py)
 
-**Fibonacci Sequence** - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number. [[MrBlaise (Python)]](https://github.com/MrBlaise/learnpython/blob/master/Numbers/fibonacci.py)
+**Fibonacci Sequence** - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number. [[MrBlaise (Python)]](https://github.com/MrBlaise/learnpython/blob/master/Numbers/fibonacci.py) [[mayankj08 (Bash)]](https://github.com/mayankj08/Shell-Script-Collection/blob/master/calcualte_fibonacci_numbers.sh)
 
 **Prime Factorization** - Have the user enter a number and find all Prime Factors (if there are any) and display them. [[MrBlaise (Python)]](https://github.com/MrBlaise/learnpython/blob/master/Numbers/prime.py)
 
