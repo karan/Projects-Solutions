@@ -5,7 +5,7 @@ This repo links to solutions of [Projects](https://github.com/thekarangoel/Proje
 Numbers
 ---------
 
-**Find PI to the Nth Digit** - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go. [[MrBlaise (Python)]](https://github.com/MrBlaise/learnpython/blob/master/Numbers/pi.py)
+**Find PI to the Nth Digit** - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go. [[MrBlaise (Python)]](https://github.com/MrBlaise/learnpython/blob/master/Numbers/pi.py) [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Numbers/Pi.hs)
 
 **Fibonacci Sequence** - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number. [[MrBlaise (Python)]](https://github.com/MrBlaise/learnpython/blob/master/Numbers/fibonacci.py) [[mayankj08 (Bash)]](https://github.com/mayankj08/Shell-Script-Collection/blob/master/calcualte_fibonacci_numbers.sh)
 
