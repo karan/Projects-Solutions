@@ -11,7 +11,7 @@ Numbers
 
 **Prime Factorization** - Have the user enter a number and find all Prime Factors (if there are any) and display them. [[MrBlaise (Python)]](https://github.com/MrBlaise/learnpython/blob/master/Numbers/prime.py)
 
-**Next Prime Number** - Have the program find prime numbers until the user chooses to stop asking for the next one. [[MrBlaise (Python)]](https://github.com/MrBlaise/learnpython/blob/master/Numbers/next_prime.py)
+**Next Prime Number** - Have the program find prime numbers until the user chooses to stop asking for the next one. [[MrBlaise (Python)]](https://github.com/MrBlaise/learnpython/blob/master/Numbers/next_prime.py) [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Numbers/NextPrime.hs)
 
 **Find Cost of Tile to Cover W x H Floor** - Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user. [[Drhealsgood (Python)]](https://github.com/Drhealsgood/miniprojects/blob/master/number_projects/other/misc.py)
 
