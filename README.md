@@ -54,7 +54,7 @@ Graphs
 Text
 ---------
 
-**Reverse a String** - Enter a string and the program will reverse it and print it out. [[Drhealsgood (Python)]](https://github.com/Drhealsgood/miniprojects/blob/master/text_projects/string_editing.py) [[JLukeC (Python)]](https://github.com/jLukeC/mega-project-list/blob/master/python/reverse_string.py) [[JLukeC (Java)]](https://github.com/jLukeC/mega-project-list/blob/master/java/src/projects/ReverseString.java)
+**Reverse a String** - Enter a string and the program will reverse it and print it out. [[Drhealsgood (Python)]](https://github.com/Drhealsgood/miniprojects/blob/master/text_projects/string_editing.py) [[JLukeC (Python)]](https://github.com/jLukeC/mega-project-list/blob/master/python/reverse_string.py) [[JLukeC (Java)]](https://github.com/jLukeC/mega-project-list/blob/master/java/src/projects/ReverseString.java) [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Text/Reverse.hs)
 
 **Pig Latin** - Pig Latin is a game of alterations played on the English language game. To create the Pig Latin form of an English word the initial consonant sound is transposed to the end of the word and an ay is affixed (Ex.: "banana" would yield anana-bay). Read Wikipedia for more information on rules. [[Drhealsgood (Python)]](https://github.com/Drhealsgood/miniprojects/blob/master/text_projects/string_editing.py) [[JLukeC (Python)]](https://github.com/jLukeC/mega-project-list/blob/master/python/pig_latin.py) [[JLukeC (Java)]](https://github.com/jLukeC/mega-project-list/blob/master/java/src/projects/PigLatin.java)
 
