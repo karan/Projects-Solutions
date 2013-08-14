@@ -5,13 +5,13 @@ This repo links to solutions of [Projects](https://github.com/thekarangoel/Proje
 Numbers
 ---------
 
-**Find PI to the Nth Digit** - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go. [[MrBlaise (Python)]](https://github.com/MrBlaise/learnpython/blob/master/Numbers/pi.py)
+**Find PI to the Nth Digit** - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go. [[MrBlaise (Python)]](https://github.com/MrBlaise/learnpython/blob/master/Numbers/pi.py) [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Numbers/Pi.hs)
 
-**Fibonacci Sequence** - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number. [[MrBlaise (Python)]](https://github.com/MrBlaise/learnpython/blob/master/Numbers/fibonacci.py) [[mayankj08 (Bash)]](https://github.com/mayankj08/Shell-Script-Collection/blob/master/calcualte_fibonacci_numbers.sh)
+**Fibonacci Sequence** - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number. [[MrBlaise (Python)]](https://github.com/MrBlaise/learnpython/blob/master/Numbers/fibonacci.py) [[mayankj08 (Bash)]](https://github.com/mayankj08/Shell-Script-Collection/blob/master/calcualte_fibonacci_numbers.sh) [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Numbers/Fibonacci.hs)
 
 **Prime Factorization** - Have the user enter a number and find all Prime Factors (if there are any) and display them. [[MrBlaise (Python)]](https://github.com/MrBlaise/learnpython/blob/master/Numbers/prime.py)
 
-**Next Prime Number** - Have the program find prime numbers until the user chooses to stop asking for the next one. [[MrBlaise (Python)]](https://github.com/MrBlaise/learnpython/blob/master/Numbers/next_prime.py)
+**Next Prime Number** - Have the program find prime numbers until the user chooses to stop asking for the next one. [[MrBlaise (Python)]](https://github.com/MrBlaise/learnpython/blob/master/Numbers/next_prime.py) [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Numbers/NextPrime.hs)
 
 **Find Cost of Tile to Cover W x H Floor** - Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user. [[Drhealsgood (Python)]](https://github.com/Drhealsgood/miniprojects/blob/master/number_projects/other/misc.py)
 
@@ -21,25 +21,25 @@ Numbers
 
 **Binary to Decimal and Back Converter** - Develop a converter to convert a decimal number to binary or a binary number to its decimal equivalent. [[Drhealsgood (Python)]](https://github.com/Drhealsgood/miniprojects/blob/master/number_projects/conversion/conversions.py)
 
-**Calculator** - A simple calculator to do basic operators. Make it a scientific calculator for added complexity. [[MrBlaise (Python)]](https://github.com/MrBlaise/learnpython/blob/master/Numbers/calc.py)
+**Calculator** - A simple calculator to do basic operators. Make it a scientific calculator for added complexity. [[MrBlaise (Python)]](https://github.com/MrBlaise/learnpython/blob/master/Numbers/calc.py) [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Numbers/Calc.hs)
 
 **Unit Converter (temp, currency, volume, mass and more)** - Converts various units between one another. The user enters the type of unit being entered, the type of unit they want to convert to and then the value. The program will then make the conversion. [[Drhealsgood (Python)]](https://github.com/Drhealsgood/miniprojects/blob/master/number_projects/conversion/conversions.py)
 
 **Alarm Clock** - A simple clock where it plays a sound after X number of minutes/seconds or at a particular time.
 
-**Distance Between Two Cities** - Calculates the distance between two cities and allows the user to specify a unit of distance. This program may require finding coordinates for the cities like latitude and longitude.
+**Distance Between Two Cities** - Calculates the distance between two cities and allows the user to specify a unit of distance. This program may require finding coordinates for the cities like latitude and longitude. [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Numbers/CityDistance.hs)
 
-**Credit Card Validator** - Takes in a credit card number from a common credit card vendor (Visa, MasterCard, American Express, Discoverer) and validates it to make sure that it is a valid number (look into how credit cards use a checksum).
+**Credit Card Validator** - Takes in a credit card number from a common credit card vendor (Visa, MasterCard, American Express, Discoverer) and validates it to make sure that it is a valid number (look into how credit cards use a checksum). [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Numbers/CCValidator.hs)
 
-**Tax Calculator** - Asks the user to enter a cost and either a country or state tax. It then returns the tax plus the total cost with tax.
+**Tax Calculator** - Asks the user to enter a cost and either a country or state tax. It then returns the tax plus the total cost with tax. [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Numbers/TaxCalculator.hs)
 
-**Factorial Finder** - The Factorial of a positive integer, n, is defined as the product of the sequence n, n-1, n-2, ...1 and the factorial of zero, 0, is defined as being 1. Solve this using both loops and recursion.
+**Factorial Finder** - The Factorial of a positive integer, n, is defined as the product of the sequence n, n-1, n-2, ...1 and the factorial of zero, 0, is defined as being 1. Solve this using both loops and recursion. [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Numbers/Factorial.hs)
 
-**Complex Number Algebra** - Show addition, multiplication, negation, and inversion of complex numbers in separate functions. (Subtraction and division operations can be made with pairs of these operations.) Print the results for each operation tested.
+**Complex Number Algebra** - Show addition, multiplication, negation, and inversion of complex numbers in separate functions. (Subtraction and division operations can be made with pairs of these operations.) Print the results for each operation tested. [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Numbers/ComplexNumberAlgebra.hs)
 
-**Happy Numbers** - A happy number is defined by the following process. Starting with any positive integer, replace the number by the sum of the squares of its digits, and repeat the process until the number equals 1 (where it will stay), or it loops endlessly in a cycle which does not include 1. Those numbers for which this process ends in 1 are happy numbers, while those that do not end in 1 are unhappy numbers. Display an example of your output here. Find first 8 happy numbers. [[Quoly (Python)]](https://github.com/Quoly/Projects/blob/master/happy_numbers.py)
+**Happy Numbers** - A happy number is defined by the following process. Starting with any positive integer, replace the number by the sum of the squares of its digits, and repeat the process until the number equals 1 (where it will stay), or it loops endlessly in a cycle which does not include 1. Those numbers for which this process ends in 1 are happy numbers, while those that do not end in 1 are unhappy numbers. Display an example of your output here. Find first 8 happy numbers. [[Quoly (Python)]](https://github.com/Quoly/Projects/blob/master/happy_numbers.py) [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Numbers/HappyNumbers.hs)
 
-**Number Names** - Show how to spell out a number in English. You can use a preexisting implementation or roll your own, but you should support inputs up to at least one million (or the maximum value of your language's default bounded integer type, if that's less). *Optional: Support for inputs other than positive integers (like zero, negative integers, and floating-point numbers).*
+**Number Names** - Show how to spell out a number in English. You can use a preexisting implementation or roll your own, but you should support inputs up to at least one million (or the maximum value of your language's default bounded integer type, if that's less). *Optional: Support for inputs other than positive integers (like zero, negative integers, and floating-point numbers).* [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Numbers/WordNumbers.hs)
 
 Graphs
 ---------
@@ -54,15 +54,15 @@ Graphs
 Text
 ---------
 
-**Reverse a String** - Enter a string and the program will reverse it and print it out. [[Drhealsgood (Python)]](https://github.com/Drhealsgood/miniprojects/blob/master/text_projects/string_editing.py) [[JLukeC (Python)]](https://github.com/jLukeC/mega-project-list/blob/master/python/reverse_string.py) [[JLukeC (Java)]](https://github.com/jLukeC/mega-project-list/blob/master/java/src/projects/ReverseString.java)
+**Reverse a String** - Enter a string and the program will reverse it and print it out. [[Drhealsgood (Python)]](https://github.com/Drhealsgood/miniprojects/blob/master/text_projects/string_editing.py) [[JLukeC (Python)]](https://github.com/jLukeC/mega-project-list/blob/master/python/reverse_string.py) [[JLukeC (Java)]](https://github.com/jLukeC/mega-project-list/blob/master/java/src/projects/ReverseString.java) [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Text/Reverse.hs)
 
 **Pig Latin** - Pig Latin is a game of alterations played on the English language game. To create the Pig Latin form of an English word the initial consonant sound is transposed to the end of the word and an ay is affixed (Ex.: "banana" would yield anana-bay). Read Wikipedia for more information on rules. [[Drhealsgood (Python)]](https://github.com/Drhealsgood/miniprojects/blob/master/text_projects/string_editing.py) [[JLukeC (Python)]](https://github.com/jLukeC/mega-project-list/blob/master/python/pig_latin.py) [[JLukeC (Java)]](https://github.com/jLukeC/mega-project-list/blob/master/java/src/projects/PigLatin.java)
 
-**Count Vowels** - Enter a string and the program counts the number of vowels in the text. For added complexity have it report a sum of each vowel found. [[Drhealsgood (Python)]](https://github.com/Drhealsgood/miniprojects/blob/master/text_projects/string_editing.py) [[JLukeC (Python)]](https://github.com/jLukeC/mega-project-list/blob/master/python/count_vowels.py) [[JLukeC (Java)]](https://github.com/jLukeC/mega-project-list/blob/master/java/src/projects/CountVowels.java)
+**Count Vowels** - Enter a string and the program counts the number of vowels in the text. For added complexity have it report a sum of each vowel found. [[Drhealsgood (Python)]](https://github.com/Drhealsgood/miniprojects/blob/master/text_projects/string_editing.py) [[JLukeC (Python)]](https://github.com/jLukeC/mega-project-list/blob/master/python/count_vowels.py) [[JLukeC (Java)]](https://github.com/jLukeC/mega-project-list/blob/master/java/src/projects/CountVowels.java) [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Text/CountVowels.hs)
 
-**Check if Palindrome** - Checks if the string entered by the user is a palindrome. That is that it reads the same forwards as backwards like “racecar” [[Drhealsgood (Python)]](https://github.com/Drhealsgood/miniprojects/blob/master/text_projects/string_editing.py) [[JLukeC (Python)]](https://github.com/jLukeC/mega-project-list/blob/master/python/palindrome.py) [[JLukeC (Java)]](https://github.com/jLukeC/mega-project-list/blob/master/java/src/projects/PalindromeCheck.java)
+**Check if Palindrome** - Checks if the string entered by the user is a palindrome. That is that it reads the same forwards as backwards like “racecar” [[Drhealsgood (Python)]](https://github.com/Drhealsgood/miniprojects/blob/master/text_projects/string_editing.py) [[JLukeC (Python)]](https://github.com/jLukeC/mega-project-list/blob/master/python/palindrome.py) [[JLukeC (Java)]](https://github.com/jLukeC/mega-project-list/blob/master/java/src/projects/PalindromeCheck.java) [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Text/Palindrome.hs)
 
-**Count Words in a String** - Counts the number of individual words in a string. For added complexity read these strings in from a text file and generate a summary. [[Drhealsgood (Python)]](https://github.com/Drhealsgood/miniprojects/blob/master/text_projects/string_editing.py) [[JLukeC (Python)]](https://github.com/jLukeC/mega-project-list/blob/master/python/count_words.py) [[JLukeC (Java)]](https://github.com/jLukeC/mega-project-list/blob/master/java/src/projects/CountWords.java)
+**Count Words in a String** - Counts the number of individual words in a string. For added complexity read these strings in from a text file and generate a summary. [[Drhealsgood (Python)]](https://github.com/Drhealsgood/miniprojects/blob/master/text_projects/string_editing.py) [[JLukeC (Python)]](https://github.com/jLukeC/mega-project-list/blob/master/python/count_words.py) [[JLukeC (Java)]](https://github.com/jLukeC/mega-project-list/blob/master/java/src/projects/CountWords.java) [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Text/CountWords.hs)
 
 **Text Editor** - Notepad style application that can open, edit, and save text documents. *Optional: Add syntax highlighting and other features.* [[JLukeC (Python)]](https://github.com/jLukeC/advanced-text-editor)
 
@@ -76,7 +76,7 @@ Text
 
 **Fortune Teller (Horoscope)** - A program that checks your horoscope on various astrology sites and puts them together for you each day.
 
-**Vigenere / Vernam / Ceasar Ciphers** - Functions for encrypting and decrypting data messages. Then send them to a friend. [[Rnhmjoj (Python)]](https://github.com/Rnhmjoj/Crittografia/blob/master/Esempio.py)
+**Vigenere / Vernam / Ceasar Ciphers** - Functions for encrypting and decrypting data messages. Then send them to a friend. [[Rnhmjoj (Python)]](https://github.com/Rnhmjoj/Crittografia/blob/master/Esempio.py)  [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Text/Vigenere.hs)
 
 **Random Gift Suggestions** - Enter various gifts for certain people when you think of them. When its time to give them a gift (xmas, birthday, anniversary) it will randomly pick one. *Optional: Suggest places you can get it (link to Amazon page?).*
 
