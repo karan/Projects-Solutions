@@ -21,7 +21,7 @@ Numbers
 
 **Binary to Decimal and Back Converter** - Develop a converter to convert a decimal number to binary or a binary number to its decimal equivalent. [[Drhealsgood (Python)]](https://github.com/Drhealsgood/miniprojects/blob/master/number_projects/conversion/conversions.py)
 
-**Calculator** - A simple calculator to do basic operators. Make it a scientific calculator for added complexity. [[MrBlaise (Python)]](https://github.com/MrBlaise/learnpython/blob/master/Numbers/calc.py) [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Numbers/Calculator.hs)
+**Calculator** - A simple calculator to do basic operators. Make it a scientific calculator for added complexity. [[MrBlaise (Python)]](https://github.com/MrBlaise/learnpython/blob/master/Numbers/calc.py) [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Numbers/Calc.hs)
 
 **Unit Converter (temp, currency, volume, mass and more)** - Converts various units between one another. The user enters the type of unit being entered, the type of unit they want to convert to and then the value. The program will then make the conversion. [[Drhealsgood (Python)]](https://github.com/Drhealsgood/miniprojects/blob/master/number_projects/conversion/conversions.py)
 
