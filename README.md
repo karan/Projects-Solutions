@@ -64,7 +64,7 @@ Graphs
 
 **Connected Graph** - Create a program which takes a graph as an input and outputs whether every node is connected or not.
 
-**Dijkstra’s Algorithm** - Create a program that finds the shortest path through a graph using its edges.
+**Dijkstra’s Algorithm** - Create a program that finds the shortest path through a graph using its edges. [[mouradmourafiq (Python)]](https://github.com/mouradmourafiq/data-analysis/blob/master/dijkstra.py)
 Text
 ---------
 
