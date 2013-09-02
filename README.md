@@ -74,11 +74,11 @@ Text
 
 **Count Vowels** - Enter a string and the program counts the number of vowels in the text. For added complexity have it report a sum of each vowel found. [[Drhealsgood (Python)]](https://github.com/Drhealsgood/miniprojects/blob/master/text_projects/string_editing.py) [[JLukeC (Python)]](https://github.com/jLukeC/mega-project-list/blob/master/python/count_vowels.py) [[JLukeC (Java)]](https://github.com/jLukeC/mega-project-list/blob/master/java/src/projects/CountVowels.java) [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Text/CountVowels.hs)
 
-**Check if Palindrome** - Checks if the string entered by the user is a palindrome. That is that it reads the same forwards as backwards like “racecar” [[Drhealsgood (Python)]](https://github.com/Drhealsgood/miniprojects/blob/master/text_projects/string_editing.py) [[JLukeC (Python)]](https://github.com/jLukeC/mega-project-list/blob/master/python/palindrome.py) [[JLukeC (Java)]](https://github.com/jLukeC/mega-project-list/blob/master/java/src/projects/PalindromeCheck.java) [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Text/Palindrome.hs)
+**Check if Palindrome** - Checks if the string entered by the user is a palindrome. That is that it reads the same forwards as backwards like “racecar” [[Drhealsgood (Python)]](https://github.com/Drhealsgood/miniprojects/blob/master/text_projects/string_editing.py) [[JLukeC (Python)]](https://github.com/jLukeC/mega-project-list/blob/master/python/palindrome.py) [[JLukeC (Java)]](https://github.com/jLukeC/mega-project-list/blob/master/java/src/projects/PalindromeCheck.java) [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Text/Palindrome.hs) [[mouradmourafiq (Python)]](https://github.com/mouradmourafiq/data-analysis/blob/master/algorithmics/palindromes.py)
 
 **Count Words in a String** - Counts the number of individual words in a string. For added complexity read these strings in from a text file and generate a summary. [[Drhealsgood (Python)]](https://github.com/Drhealsgood/miniprojects/blob/master/text_projects/string_editing.py) [[JLukeC (Python)]](https://github.com/jLukeC/mega-project-list/blob/master/python/count_words.py) [[JLukeC (Java)]](https://github.com/jLukeC/mega-project-list/blob/master/java/src/projects/CountWords.java) [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Text/CountWords.hs)
 
-**Text Editor** - Notepad style application that can open, edit, and save text documents. *Optional: Add syntax highlighting and other features.* [[JLukeC (Python)]](https://github.com/jLukeC/advanced-text-editor)
+**Text Editor** - Notepad style application that can open, edit, and save text documents. *Optional: Add syntax highlighting and other features.* [[JLukeC (Python)]](https://github.com/jLukeC/advanced-text-editor) [[mouradmourafiq (c++/QT)]] (https://github.com/mouradmourafiq/mnotepad)
 
 **RSS Feed Creator** - Given a link to RSS/Atom Feed, get all posts and display them.
 
@@ -101,7 +101,7 @@ Text
 Networking
 ---------
 
-**FTP Program** - A file transfer program which can transfer files back and forth from a remote web sever.
+**FTP Program** - A file transfer program which can transfer files back and forth from a remote web sever. [[mouradmourafiq (c)]] (https://github.com/mouradmourafiq/mftp)
 
 **Bandwidth Monitor** - A small utility program that tracks how much data you have uploaded and downloaded from the net during the course of your current online session. See if you can find out what periods of the day you use more and less and generate a report or graph that shows it.
 
@@ -146,7 +146,7 @@ Threading
 Web
 ---------
 
-**Page Scraper** - Create an application which connects to a site and pulls out all links, or images, and saves them to a list. *Optional: Organize the indexed content and don’t allow duplicates. Have it put the results into an easily searchable index file.*
+**Page Scraper** - Create an application which connects to a site and pulls out all links, or images, and saves them to a list. *Optional: Organize the indexed content and don’t allow duplicates. Have it put the results into an easily searchable index file.* [[mouradmourafiq (python)]](https://github.com/mouradmourafiq/pages-jaunes-maroc)(https://github.com/mouradmourafiq/telecontact/blob/master/telecontact.py) (https://github.com/mouradmourafiq/googly/blob/master/googly.py) (https://github.com/mouradmourafiq/wikipedia/blob/master/wikipedia.py)
 
 **Web Browser with Tabs** - Create a small web browser that allows you to navigate the web and contains tabs which can be used to navigate to multiple web pages at once. For simplicity don’t worry about executing Javascript or other client side code.
 
