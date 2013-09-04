@@ -53,8 +53,6 @@ Classic Algorithms
 
 **Sieve of Eratosthenes** - The sieve of Eratosthenes is one of the most efficient ways to find all of the smaller primes (below 10 million or so).
 
-**Inverted index** - An [Inverted Index](http://en.wikipedia.org/wiki/Inverted_index) is a data structure used to create full text search. Given a set of text files, implement a program to create an inverted index. Also create a user interface to do a search using that inverted index which returns a list of files that contain the query term / terms. The search index can be in memory.
-
 Graphs
 ---------
 
@@ -65,6 +63,12 @@ Graphs
 **Connected Graph** - Create a program which takes a graph as an input and outputs whether every node is connected or not.
 
 **Dijkstra’s Algorithm** - Create a program that finds the shortest path through a graph using its edges. [[mouradmourafiq (Python)]](https://github.com/mouradmourafiq/data-analysis/blob/master/dijkstra.py)
+
+Data Structures
+---------
+
+**Inverted index** - An [Inverted Index](http://en.wikipedia.org/wiki/Inverted_index) is a data structure used to create full text search. Given a set of text files, implement a program to create an inverted index. Also create a user interface to do a search using that inverted index which returns a list of files that contain the query term / terms. The search index can be in memory.
+
 Text
 ---------
 
