@@ -16,7 +16,7 @@ Numbers
 
 **Find Cost of Tile to Cover W x H Floor** - Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user. [[Drhealsgood (Python)]](https://github.com/Drhealsgood/miniprojects/blob/master/number_projects/other/misc.py) [[petehuang (Ruby)]](https://github.com/petehuang/Projects/blob/master/Numbers/cost_of_tile.rb)
 
-**Mortgage Calculator** - Calculate the monthly payments of a fixed term mortgage over given Nth terms at a given interest rate. Also figure out how long it will take the user to pay back the loan. [[petehuang (Ruby)]](https://github.com/petehuang/Projects/blob/master/Numbers/mortgage_calculator.rb)
+**Mortgage Calculator** - Calculate the monthly payments of a fixed term mortgage over given Nth terms at a given interest rate. Also figure out how long it will take the user to pay back the loan. [[petehuang (Ruby)]](https://github.com/petehuang/Projects/blob/master/Numbers/mortgage_calculator.rb) [[sysadmin75 (python)]] (https://github.com/sysadmin75/Projects/blob/master/Numbers/mortgage/mortgage.py)
 
 **Change Return Program** - The user enters a cost and then the amount of money given. The program will figure out the change and the number of quarters, dimes, nickels, pennies needed for the change. [[Drhealsgood (Python)]](https://github.com/Drhealsgood/miniprojects/blob/master/number_projects/money_changing/money_changing.py) [[petehuang (Ruby)]](https://github.com/petehuang/Projects/blob/master/Numbers/change_return.rb)
 
