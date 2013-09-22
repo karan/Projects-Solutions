@@ -26,7 +26,7 @@ Numbers
 
 **Unit Converter (temp, currency, volume, mass and more)** - Converts various units between one another. The user enters the type of unit being entered, the type of unit they want to convert to and then the value. The program will then make the conversion. [[Drhealsgood (Python)]](https://github.com/Drhealsgood/miniprojects/blob/master/number_projects/conversion/conversions.py)
 
-**Alarm Clock** - A simple clock where it plays a sound after X number of minutes/seconds or at a particular time.
+**Alarm Clock** - A simple clock where it plays a sound after X number of minutes/seconds or at a particular time. [[smthc (Python)]](https://github.com/smthc/mini_projects/blob/master/alarm.py)
 
 **Distance Between Two Cities** - Calculates the distance between two cities and allows the user to specify a unit of distance. This program may require finding coordinates for the cities like latitude and longitude. [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Numbers/CityDistance.hs)
 
