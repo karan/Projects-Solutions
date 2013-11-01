@@ -48,7 +48,7 @@ Classic Algorithms
 
 **Sorting** - Implement two types of sorting algorithms: Merge sort and bubble sort [[hariharanrangasamy (Python)]](https://github.com/hariharanrangasamy/Projects/blob/master/Classic%20Algorithms/bubblesort.py) [[hariharanrangasamy (Python)]](https://github.com/hariharanrangasamy/Projects/blob/master/Classic%20Algorithms/mergesort.py) [[bolcselo(c)]](https://github.com/bolcselo/Projects/blob/master/Classic%20Algorithms/sorting.c) [[petehuang (Ruby)]](https://github.com/petehuang/Projects/blob/master/Classic%20Algorithms/sorting.rb)
 
-**Closest pair problem** - The closest pair of points problem or closest pair problem is a problem of computational geometry: given *n* points in metric space, find a pair of points with the smallest distance between them.
+**Closest pair problem** - The closest pair of points problem or closest pair problem is a problem of computational geometry: given *n* points in metric space, find a pair of points with the smallest distance between them. [[dabillox (Python)]](https://github.com/dabillox/pyprojects/blob/master/closestpairproblem.py)
 
 **Sieve of Eratosthenes** - The sieve of Eratosthenes is one of the most efficient ways to find all of the smaller primes (below 10 million or so). [[swapagarwal (Python)]](https://github.com/swapagarwal/Projects/blob/master/Classic%20Algorithms/Sieve%20of%20Eratosthenes.py)
 
