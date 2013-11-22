@@ -110,7 +110,7 @@ Networking
 
 **Port Scanner** - Enter an IP address and a port range where the program will then attempt to find open ports on the given computer by connecting to each of them. On any successful connections mark the port as open. [[mayankj08 (Python)]](https://github.com/mayankj08/Python-Programs/blob/master/open_ports.py)
 
-**Mail Checker (POP3 / IMAP)** - The user enters various account information include web server and IP, protocol type (POP3 or IMAP) and the application will check for email at a given interval. [[tiffanyzhou (Python)]](https://github.com/TiffanyZhou/Projects/blob/master/Networking/mail_checker.py)
+**Mail Checker (POP3 / IMAP)** - The user enters various account information include web server and IP, protocol type (POP3 or IMAP) and the application will check for email at a given interval. [[tiffanyzhou (Python)]](https://github.com/TiffanyZhou/Projects/blob/master/Networking/mail_checker.py) [[averageprogrammer (Java)]] (https://github.com/averageprogrammer/Mail_Checker)
 
 **Country from IP Lookup** - Enter an IP address and find the country that IP is registered in. *Optional: Find the Ip automatically.* [[Hash-Collision (Python)]] (https://github.com/Hash-Collision/Projects/blob/master/Networking/country_from_ip.py)
 
