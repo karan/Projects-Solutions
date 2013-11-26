@@ -29,7 +29,7 @@ Numbers
 
 **Distance Between Two Cities** - Calculates the distance between two cities and allows the user to specify a unit of distance. This program may require finding coordinates for the cities like latitude and longitude. [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Numbers/CityDistance.hs) [[petehuang (Ruby)]](https://github.com/petehuang/Projects/blob/master/Numbers/two_city_distance.rb) [[dabillox (Python)]](https://github.com/dabillox/pyprojects/blob/master/citydistance.py)
 
-**Credit Card Validator** - Takes in a credit card number from a common credit card vendor (Visa, MasterCard, American Express, Discoverer) and validates it to make sure that it is a valid number (look into how credit cards use a checksum). [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Numbers/CCValidator.hs)
+**Credit Card Validator** - Takes in a credit card number from a common credit card vendor (Visa, MasterCard, American Express, Discoverer) and validates it to make sure that it is a valid number (look into how credit cards use a checksum). [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Numbers/CCValidator.hs)[[stupidgrass (Python)]](https://github.com/stupidgrass/Projects/blob/master/Numbers/credit_card_validator_xwz.py)
 
 **Tax Calculator** - Asks the user to enter a cost and either a country or state tax. It then returns the tax plus the total cost with tax. [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Numbers/TaxCalculator.hs)
 
