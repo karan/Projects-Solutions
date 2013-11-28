@@ -83,7 +83,7 @@ Text
 
 **Text Editor** - Notepad style application that can open, edit, and save text documents. *Optional: Add syntax highlighting and other features.* [[JLukeC (Python)]](https://github.com/jLukeC/advanced-text-editor) [[mouradmourafiq (c++/QT)]] (https://github.com/mouradmourafiq/mnotepad)
 
-**RSS Feed Creator** - Given a link to RSS/Atom Feed, get all posts and display them.
+**RSS Feed Creator** - Given a link to RSS/Atom Feed, get all posts and display them. [[sriniavireddy {python)]] (https://github.com/sriniavireddy/scripts-and-solutions/tree/master/Text/RSSfeedparser)
 
 **Post it Notes Program** - A program where you can add text reminders and post them. *Optional: You can have the program also add popup reminders.*
 
