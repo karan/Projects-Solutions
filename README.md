@@ -155,7 +155,7 @@ Web
 
 **Online White Board** - Create an application which allows you to draw pictures, write notes and use various colors to flesh out ideas for projects. *Optional: Add feature to invite friends to collaborate on a white board online.*
 
-**Get Atomic Time from Internet Clock** - This program will get the true atomic time from an atomic time clock on the Internet. Use any one of the atomic clocks returned by a simple Google search. [[anggiaj (Go)]](https://github.com/anggiaj/Projects/blob/master/Web/time.go)
+**Get Atomic Time from Internet Clock** - This program will get the true atomic time from an atomic time clock on the Internet. Use any one of the atomic clocks returned by a simple Google search. [[anggiaj (Go)]](https://github.com/anggiaj/Projects/blob/master/Web/time.go) [[averageprogrammer (Java)]] (https://github.com/averageprogrammer/Atomic_Time)
 
 **Fetch Current Weather** - Get the current weather for a given zip/postal code. *Optional: Try locating the user automatically.* [[sysadmin75 (python)]] (https://github.com/sysadmin75/Projects/blob/master/Web/Weather/weather.py)
 
