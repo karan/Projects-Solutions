@@ -191,7 +191,7 @@ Databases
 
 **SQL Query Analyzer** - A utility application which a user can enter a query and have it run against a local database and look for ways to make it more efficient.
 
-**Remote SQL Tool** - A utility that can execute queries on remote servers from your local computer across the Internet. It should take in a remote host, user name and password, run the query and return the results.
+**Remote SQL Tool** - A utility that can execute queries on remote servers from your local computer across the Internet. It should take in a remote host, user name and password, run the query and return the results.[[vishwanath79 (Python)]](https://github.com/vishwanath79/Remote-SQL/blob/master/RemSQL.py)
 
 **Report Generator** - Create a utility that generates a report based on some tables in a database. Generates a sales reports based on the order/order details tables or sums up the days current database activity.
 
