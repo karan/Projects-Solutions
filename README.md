@@ -116,7 +116,7 @@ Networking
 
 **Whois Search Tool** - Enter an IP or host address and have it look it up through whois and return the results to you. [[rramchand (Python)]](https://github.com/rramchand/Projects-Solutions/blob/master/whois.py)
 
-**Site Checker with Time Scheduling** - An application that attempts to connect to a website or server every so many minutes or a given time and check if it is up. If it is down, it will notify you by email or by posting a notice on screen.
+**Site Checker with Time Scheduling** - An application that attempts to connect to a website or server every so many minutes or a given time and check if it is up. If it is down, it will notify you by email or by posting a notice on screen. [[cahitonur (Python)]](https://github.com/cahitonur/mini-project/blob/master/site_monitor/monitor.py)
 
 Classes
 ---------
