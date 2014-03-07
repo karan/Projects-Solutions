@@ -23,7 +23,7 @@ Numbers
 
 **Calculator** - A simple calculator to do basic operators. Make it a scientific calculator for added complexity. [[MrBlaise (Python)]](https://github.com/MrBlaise/learnpython/blob/master/Numbers/calc.py) [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Numbers/Calc.hs) [[ripperhf (C)]](https://github.com/ripperhf/Calculator/blob/master/calc.c)[[abarnes7 (Java)]](https://github.com/abarnes7/Java-Calculator/blob/master/basicCalculator.java) [[hx1997 (C)]](https://github.com/hx1997/Projects/blob/master/Numbers/calc.c)
 
-**Unit Converter (temp, currency, volume, mass and more)** - Converts various units between one another. The user enters the type of unit being entered, the type of unit they want to convert to and then the value. The program will then make the conversion. [[Drhealsgood (Python)]](https://github.com/Drhealsgood/miniprojects/blob/master/number_projects/conversion/conversions.py)
+**Unit Converter (temp, currency, volume, mass and more)** - Converts various units between one another. The user enters the type of unit being entered, the type of unit they want to convert to and then the value. The program will then make the conversion. [[Drhealsgood (Python)]](https://github.com/Drhealsgood/miniprojects/blob/master/number_projects/conversion/conversions.py)[[jbruno2 (C++)]](https://github.com/jbruno2/UnitConversionTools)
 
 **Alarm Clock** - A simple clock where it plays a sound after X number of minutes/seconds or at a particular time. [[smthc (Python)]](https://github.com/smthc/mini_projects/blob/master/alarm.py) [[averageprogrammer (Java)]] (https://github.com/averageprogrammer/Rooster)
 
