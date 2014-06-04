@@ -161,7 +161,9 @@ Web
 
 **Get Atomic Time from Internet Clock** - This program will get the true atomic time from an atomic time clock on the Internet. Use any one of the atomic clocks returned by a simple Google search. [[anggiaj (Go)]](https://github.com/anggiaj/Projects/blob/master/Web/time.go) [[averageprogrammer (Java)]] (https://github.com/averageprogrammer/Atomic_Time)
 
-**Fetch Current Weather** - Get the current weather for a given zip/postal code. *Optional: Try locating the user automatically.* [[sysadmin75 (python)]] (https://github.com/sysadmin75/Projects/blob/master/Web/Weather/weather.py)
+**Fetch Current Weather** - Get the current weather for a given zip/postal code. *Optional: Try locating the user automatically.* [[sysadmin75 (python)]] (https://github.com/sysadmin75/Projects/blob/master/Web/Weather/weather.py) 
+[[chillaranand (python)]] (https://github.com/ChillarAnand/Weather-on-Terminal)
+
 
 **Scheduled Auto Login and Action** - Make an application which logs into a given site on a schedule and invokes a certain action and then logs out. This can be useful for checking web mail, posting regular content, or getting info for other applications and saving it to your computer.
 
