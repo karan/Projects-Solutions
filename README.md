@@ -42,7 +42,7 @@ Numbers
 **Number Names** - Show how to spell out a number in English. You can use a preexisting implementation or roll your own, but you should support inputs up to at least one million (or the maximum value of your language's default bounded integer type, if that's less). *Optional: Support for inputs other than positive integers (like zero, negative integers, and floating-point numbers).* [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Numbers/WordNumbers.hs) [[scottdchris (Python)]](https://github.com/scottdchris/NumToWords) [[ScottKolo (Go)]](https://github.com/ScottKolo/GoProjects/blob/master/Numbers/names.go)
 [[checkcheckzz (C++)]](https://github.com/checkcheckzz/coding-problem/blob/master/problem/Namenumbers.cpp)
 
-**Coin Flip Simulation** - Write some code that simulates flipping a single coin however many times the user decides. The code should record the outcomes and count the number of tails and heads. [[scottdchris (Python)]](https://github.com/scottdchris/CoinFlip) [[person808 (Python)]](https://github.com/person808/Projects/blob/master/Numbers/coin_flip.py)
+**Coin Flip Simulation** - Write some code that simulates flipping a single coin however many times the user decides. The code should record the outcomes and count the number of tails and heads. [[scottdchris (Python)]](https://github.com/scottdchris/CoinFlip) [[person808 (Python)]](https://github.com/person808/Projects/blob/master/Numbers/coin_flip.py) [[codefacekillah (Python)]](https://github.com/codefacekillah/Projects/blob/master/Numbers/coinflip.py)
 
 Classic Algorithms
 -----------------
