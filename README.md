@@ -88,7 +88,7 @@ Text
 
 **Count Words in a String** - Counts the number of individual words in a string. For added complexity read these strings in from a text file and generate a summary. [[Drhealsgood (Python)]](https://github.com/Drhealsgood/miniprojects/blob/master/text_projects/string_editing.py) [[JLukeC (Python)]](https://github.com/jLukeC/mega-project-list/blob/master/python/count_words.py) [[JLukeC (Java)]](https://github.com/jLukeC/mega-project-list/blob/master/java/src/projects/CountWords.java) [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Text/CountWords.hs) [[petehuang (Ruby)]](https://github.com/petehuang/Projects/blob/master/Text/count_words.rb) [[rasppie (Python)]](https://github.com/rasppie/pyprojects/blob/master/word_counter.py)
 
-**Text Editor** - Notepad style application that can open, edit, and save text documents. *Optional: Add syntax highlighting and other features.* [[JLukeC (Python)]](https://github.com/jLukeC/advanced-text-editor) [[mouradmourafiq (c++/QT)]] (https://github.com/mouradmourafiq/mnotepad)
+**Text Editor** - Notepad style application that can open, edit, and save text documents. *Optional: Add syntax highlighting and other features.* [[JLukeC (Python)]](https://github.com/jLukeC/advanced-text-editor) [[mouradmourafiq (c++/QT)]] (https://github.com/mouradmourafiq/mnotepad) [[rasppie (Python)]] (https://github.com/rasppie/Text_Editor/blob/master/texteditor.py)
 
 **RSS Feed Creator** - Given a link to RSS/Atom Feed, get all posts and display them. [[sriniavireddy (python)]] (https://github.com/sriniavireddy/scripts-and-solutions/tree/master/Text/RSSfeedparser)
 
