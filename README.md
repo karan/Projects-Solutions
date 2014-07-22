@@ -221,7 +221,7 @@ Graphics and Multimedia
 
 **Stream Video from Online** - Try to create your own online streaming video player.
 
-**Mp3 Player** - A simple program for playing your favorite music files. Add features you though are missing from your favorite music player.
+**Mp3 Player** - A simple program for playing your favorite music files. Add features you though are missing from your favorite music player.  [[rasppie (Python)]] (https://github.com/rasppie/pyprojects/blob/master/music-player.py)
 
 **Stream Music from Online** - Try to create your own online streaming music player. [[Naggie (PHP)]](https://github.com/naggie/vosbox)
 
