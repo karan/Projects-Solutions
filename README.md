@@ -46,6 +46,8 @@ Numbers
 
 **Coin Flip Simulation** - Write some code that simulates flipping a single coin however many times the user decides. The code should record the outcomes and count the number of tails and heads. [[scottdchris (Python)]](https://github.com/scottdchris/CoinFlip) [[person808 (Python)]](https://github.com/person808/Projects/blob/master/Numbers/coin_flip.py) [[codefacekillah (Python)]](https://github.com/codefacekillah/Projects/blob/master/Numbers/coinflip.py) [[aysark (Java)]](https://github.com/aysark/Review/blob/master/Projects/src/CoinFlip.java)
 
+**Limit Calculator** - Ask the user to enter f(x) and the limit value, then return the value of the limit statement *Optional: Make the calculator capable of supporting infinite limits.*
+
 Classic Algorithms
 -----------------
 
