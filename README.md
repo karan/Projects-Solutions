@@ -102,7 +102,7 @@ Text
 
 **Guestbook / Journal** - A simple application that allows people to add comments or write journal entries. It can allow comments or not and timestamps for all entries. Could also be made into a shout box. *Optional: Deploy it on Google App Engine or Heroku or any other PaaS (if possible, of course).*
 
-**Fortune Teller (Horoscope)** - A program that checks your horoscope on various astrology sites and puts them together for you each day. [[petehuang (Ruby)]](https://github.com/petehuang/Projects/blob/master/Text/horoscope.rb) [[cahitonur (Python)]](https://github.com/cahitonur/mini-project/blob/master/horoscope/horoscope.py) [[tapaswen-pathak (Python)]] (https://github.com/tapasweni-pathak/Scripts/blob/master/Your-Horoscope.py)
+**Fortune Teller (Horoscope)** - A program that checks your horoscope on various astrology sites and puts them together for you each day. [[petehuang (Ruby)]](https://github.com/petehuang/Projects/blob/master/Text/horoscope.rb) [[cahitonur (Python)]](https://github.com/cahitonur/mini-project/blob/master/horoscope/horoscope.py) [[tapasweni-pathak (Python)]] (https://github.com/tapasweni-pathak/Scripts/blob/master/Your-Horoscope.py)
 
 **Vigenere / Vernam / Ceasar Ciphers** - Functions for encrypting and decrypting data messages. Then send them to a friend. [[Rnhmjoj (Python)]](https://github.com/Rnhmjoj/Crypto) [[petehuang (Ruby)]](https://github.com/petehuang/Projects/blob/master/Text/cipher.rb) [[averageprogrammer (Java)]] (https://github.com/averageprogrammer/Ciphers)
 
