@@ -102,7 +102,7 @@ Text
 
 **Guestbook / Journal** - A simple application that allows people to add comments or write journal entries. It can allow comments or not and timestamps for all entries. Could also be made into a shout box. *Optional: Deploy it on Google App Engine or Heroku or any other PaaS (if possible, of course).*
 
-**Fortune Teller (Horoscope)** - A program that checks your horoscope on various astrology sites and puts them together for you each day. [[petehuang (Ruby)]](https://github.com/petehuang/Projects/blob/master/Text/horoscope.rb) [[cahitonur (Python)]](https://github.com/cahitonur/mini-project/blob/master/horoscope/horoscope.py)
+**Fortune Teller (Horoscope)** - A program that checks your horoscope on various astrology sites and puts them together for you each day. [[petehuang (Ruby)]](https://github.com/petehuang/Projects/blob/master/Text/horoscope.rb) [[cahitonur (Python)]](https://github.com/cahitonur/mini-project/blob/master/horoscope/horoscope.py) [[tapasweni-pathak (Python)]] (https://github.com/tapasweni-pathak/Scripts/blob/master/Your-Horoscope.py)
 
 **Vigenere / Vernam / Ceasar Ciphers** - Functions for encrypting and decrypting data messages. Then send them to a friend. [[Rnhmjoj (Python)]](https://github.com/Rnhmjoj/Crypto) [[petehuang (Ruby)]](https://github.com/petehuang/Projects/blob/master/Text/cipher.rb) [[averageprogrammer (Java)]] (https://github.com/averageprogrammer/Ciphers)
 
@@ -123,9 +123,9 @@ Networking
 
 **Mail Checker (POP3 / IMAP)** - The user enters various account information include web server and IP, protocol type (POP3 or IMAP) and the application will check for email at a given interval. [[tiffanyzhou (Python)]](https://github.com/TiffanyZhou/Projects/blob/master/Networking/mail_checker.py) [[averageprogrammer (Java)]] (https://github.com/averageprogrammer/Mail_Checker)
 
-**Country from IP Lookup** - Enter an IP address and find the country that IP is registered in. *Optional: Find the Ip automatically.* [[Hash-Collision (Python)]] (https://github.com/Hash-Collision/Projects/blob/master/Networking/country_from_ip.py)
+**Country from IP Lookup** - Enter an IP address and find the country that IP is registered in. *Optional: Find the Ip automatically.* [[Hash-Collision (Python)]] (https://github.com/Hash-Collision/Projects/blob/master/Networking/country_from_ip.py) [[tapasweni-pathak (Python)]] (https://github.com/tapasweni-pathak/Scripts/blob/master/Locate-Me.py)
 
-**Whois Search Tool** - Enter an IP or host address and have it look it up through whois and return the results to you. [[rramchand (Python)]](https://github.com/rramchand/Projects-Solutions/blob/master/whois.py)
+**Whois Search Tool** - Enter an IP or host address and have it look it up through whois and return the results to you. [[rramchand (Python)]](https://github.com/rramchand/Projects-Solutions/blob/master/whois.py) [[tapasweni-pathak (Python)]] (https://github.com/tapasweni-pathak/Scripts/blob/master/WhoIs%3F.py)
 
 **Site Checker with Time Scheduling** - An application that attempts to connect to a website or server every so many minutes or a given time and check if it is up. If it is down, it will notify you by email or by posting a notice on screen. [[cahitonur (Python)]](https://github.com/cahitonur/mini-project/blob/master/site_monitor/monitor.py)
 
@@ -169,7 +169,7 @@ Web
 **Get Atomic Time from Internet Clock** - This program will get the true atomic time from an atomic time clock on the Internet. Use any one of the atomic clocks returned by a simple Google search. [[anggiaj (Go)]](https://github.com/anggiaj/Projects/blob/master/Web/time.go) [[averageprogrammer (Java)]] (https://github.com/averageprogrammer/Atomic_Time)
 
 **Fetch Current Weather** - Get the current weather for a given zip/postal code. *Optional: Try locating the user automatically.* [[sysadmin75 (python)]] (https://github.com/sysadmin75/Projects/blob/master/Web/Weather/weather.py) 
-[[chillaranand (python)]] (https://github.com/ChillarAnand/Weather-on-Terminal)
+[[chillaranand (python)]] (https://github.com/ChillarAnand/Weather-on-Terminal) [[tapasweni-pathak (python)]] (https://github.com/tapasweni-pathak/Scripts/blob/master/Weather.py)
 
 
 **Scheduled Auto Login and Action** - Make an application which logs into a given site on a schedule and invokes a certain action and then logs out. This can be useful for checking web mail, posting regular content, or getting info for other applications and saving it to your computer.
