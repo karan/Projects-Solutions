@@ -41,6 +41,7 @@ Numbers
 
 **Factorial Finder** - The Factorial of a positive integer, n, is defined as the product of the sequence n, n-1, n-2, ...1 and the factorial of zero, 0, is defined as being 1. Solve this using both loops and recursion. [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Numbers/Factorial.hs) [[mm (python)]](https://github.com/marinamiranda/projects/blob/master/factorial.py) [[rramchand (python)]](https://github.com/rramchand/Projects-Solutions/blob/master/factorial.py) [[ScottKolo (Go)]](https://github.com/ScottKolo/GoProjects/blob/master/Numbers/factorial.go) [[enderceylan (Python)]](https://github.com/enderceylan/Projects/blob/master/FactorialFinder.py) [[aysark (Java)]](https://github.com/aysark/Review/blob/master/Projects/src/FactorialFinder.java) [[JaredCubilla (Javascript)]](https://github.com/JaredCubilla/Projects/blob/master/Javascript/numbers/factorialFinder.js)
 [[turlapatykaushik(Python)]](https://github.com/turlapatykaushik/contributions/blob/master/factorial.py)
+[[iamvoid13(C++)]](https://github.com/iamvoid13/Programs/blob/master/factorial.cpp)
 
 **Complex Number Algebra** - Show addition, multiplication, negation, and inversion of complex numbers in separate functions. (Subtraction and division operations can be made with pairs of these operations.) Print the results for each operation tested. [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Numbers/ComplexNumberAlgebra.hs) [[aysark (Java)]](https://github.com/aysark/Review/blob/master/Projects/src/ComplexNumbers.java)
 
