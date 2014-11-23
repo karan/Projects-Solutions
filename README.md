@@ -54,6 +54,8 @@ Numbers
 
 **Limit Calculator** - Ask the user to enter f(x) and the limit value, then return the value of the limit statement *Optional: Make the calculator capable of supporting infinite limits.*
 
+**Fast Exponentiation** - Ask the user to enter 2 integers a and b and output a^b (i.e. pow(a,b)) in O(lg n) time complexity.
+
 Classic Algorithms
 -----------------
 
@@ -181,7 +183,7 @@ Web
 **Get Atomic Time from Internet Clock** - This program will get the true atomic time from an atomic time clock on the Internet. Use any one of the atomic clocks returned by a simple Google search. [[anggiaj (Go)]](https://github.com/anggiaj/Projects/blob/master/Web/time.go) [[averageprogrammer (Java)]] (https://github.com/averageprogrammer/Atomic_Time)
 
 **Fetch Current Weather** - Get the current weather for a given zip/postal code. *Optional: Try locating the user automatically.* [[sysadmin75 (python)]] (https://github.com/sysadmin75/Projects/blob/master/Web/Weather/weather.py) 
-[[chillaranand (python)]] (https://github.com/ChillarAnand/Weather-on-Terminal) [[tapasweni-pathak (python)]] (https://github.com/tapasweni-pathak/Scripts/blob/master/Weather.py)
+[[chillaranand (python)]] (https://github.com/ChillarAnand/Weather-on-Terminal) [[tapasweni-pathak (python)]] (https://github.com/tapasweni-pathak/Scripts/blob/master/Weather.py) [[Tkwon123 (ruby)]] (https://github.com/Tkwon123/whatweather)
 
 
 **Scheduled Auto Login and Action** - Make an application which logs into a given site on a schedule and invokes a certain action and then logs out. This can be useful for checking web mail, posting regular content, or getting info for other applications and saving it to your computer.
