@@ -136,7 +136,7 @@ Text
 Networking
 ---------
 
-**FTP Program** - A file transfer program which can transfer files back and forth from a remote web sever. [[mouradmourafiq (c)]] (https://github.com/mouradmourafiq/mftp) [[rohit-takhar (c)]](https://github.com/rohit-takhar/Simple-FTP)
+**FTP Program** - A file transfer program which can transfer files back and forth from a remote web sever. [[mouradmourafiq (c)]] (https://github.com/mouradmourafiq/mftp) [[rohit-takhar (c)]](https://github.com/rohit-takhar/Simple-FTP) [[rohit-takhar (C)]] (https://github.com/rohit-takhar/ftp-client-program-in-C-vsftpd)
 
 **Bandwidth Monitor** - A small utility program that tracks how much data you have uploaded and downloaded from the net during the course of your current online session. See if you can find out what periods of the day you use more and less and generate a report or graph that shows it.
 
