@@ -60,7 +60,7 @@ Numbers
 **Limit Calculator** - Ask the user to enter f(x) and the limit value, then return the value of the limit statement *Optional: Make the calculator capable of supporting infinite limits.*[[ChrisBlair (Java)]](https://github.com/ChrisBlair2019/SummerProjectsJAVA/tree/master/Limits)
 
 **Fast Exponentiation** - Ask the user to enter 2 integers a and b and output a^b (i.e. pow(a,b)) in O(lg n) time complexity.
-
+[[chrislyc1991(C++)]](https://github.com/chrislyc1991/project-1/blob/master/FastExpo.cpp)
 Classic Algorithms
 -----------------
 
