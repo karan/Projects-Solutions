@@ -137,7 +137,7 @@ Text
 
 **RSS Feed Creator** - Given a link to RSS/Atom Feed, get all posts and display them. [[sriniavireddy (python)]] (https://github.com/sriniavireddy/scripts-and-solutions/tree/master/Text/RSSfeedparser)
 
-**Post it Notes Program** - A program where you can add text reminders and post them. *Optional: You can have the program also add popup reminders.*
+**Post it Notes Program** - A program where you can add text reminders and post them. *Optional: You can have the program also add popup reminders.* [[rahulxxarora(python)]](https://github.com/rahulxxarora/Reminder)
 
 **Quote Tracker (market symbols etc)** - A program which can go out and check the current value of stocks for a list of symbols entered by the user. The user can set how often the stocks are checked. For CLI, show whether the stock has moved up or down. *Optional: If GUI, the program can show green up and red down arrows to show which direction the stock value has moved.* [[petehuang (Ruby)]](https://github.com/petehuang/Projects/blob/master/Text/stock_price.rb) [[masegaloeh (Python)]](https://github.com/masegaloeh/freetime-projects/blob/master/text/quote_tracker.py) [[tkwon123 (Ruby)]](https://github.com/Tkwon123/fetchstock) [[viktorahlstrom (Bash)]](https://github.com/viktorahlstrom/all/blob/master/scripts/stocks.sh)
 
