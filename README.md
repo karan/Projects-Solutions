@@ -76,14 +76,14 @@ Classic Algorithms
 Graphs
 ---------
 
-**Graph from links** - Create a program that will create a graph or network from a series of links.[[grimley517 (Python)]](https://github.com/grimley517/Projects/blob/graph1/Graphs/GfmLinks.py)
+**Graph from links** - Create a program that will create a graph or network from a series of links.[[grimley517 (Python)]](https://github.com/grimley517/Projects/blob/graph1/Graphs/GfmLinks.py)[[rahulxxarora(c++)]](https://github.com/rahulxxarora/SourceCodes/blob/master/GraphLinks.cpp)
 
 **Eulerian Path** - Create a program which will take as an input a graph and output either a Eulerian path or a Eulerian cycle, or state that it is not possible.  A Eulerian Path starts at one node and traverses every edge of a graph  through every node and finishes at another node.  A Eulerian cycle is a eulerian Path that starts and finishes at the same node.
 [[DiegoAscanio(Python)]](https://github.com/DiegoAscanio/python-graphs/blob/master/eulerian.py)
 
 **Connected Graph** - Create a program which takes a graph as an input and outputs whether every node is connected or not.[[DiegoAscanio(Python)]](https://github.com/DiegoAscanio/python-graphs/blob/master/is_connected.py)
 
-**Dijkstra’s Algorithm** - Create a program that finds the shortest path through a graph using its edges. [[mouradmourafiq (Python)]](https://github.com/mouradmourafiq/data-analysis/blob/master/dijkstra.py)
+**Dijkstra’s Algorithm** - Create a program that finds the shortest path through a graph using its edges. [[mouradmourafiq (Python)]](https://github.com/mouradmourafiq/data-analysis/blob/master/dijkstra.py)[[rahulxxarora(c++)]](https://github.com/rahulxxarora/SourceCodes/blob/master/Dijshaktra.cpp)
 
 **Minimum Spanning Tree** - Create a program which takes a connected, undirected graph with weights and outputs the minimum spanning tree of the graph i.e., a
 subgraph that is a tree, contains all the vertices, and the sum of its weights is the least possible. [[kiriakosv (Python)]](https://github.com/kiriakosv/Project_Solutions/tree/master/MinSpanTree)
@@ -137,7 +137,7 @@ Text
 
 **RSS Feed Creator** - Given a link to RSS/Atom Feed, get all posts and display them. [[sriniavireddy (python)]] (https://github.com/sriniavireddy/scripts-and-solutions/tree/master/Text/RSSfeedparser)
 
-**Post it Notes Program** - A program where you can add text reminders and post them. *Optional: You can have the program also add popup reminders.*
+**Post it Notes Program** - A program where you can add text reminders and post them. *Optional: You can have the program also add popup reminders.* [[rahulxxarora(python)]](https://github.com/rahulxxarora/Reminder)
 
 **Quote Tracker (market symbols etc)** - A program which can go out and check the current value of stocks for a list of symbols entered by the user. The user can set how often the stocks are checked. For CLI, show whether the stock has moved up or down. *Optional: If GUI, the program can show green up and red down arrows to show which direction the stock value has moved.* [[petehuang (Ruby)]](https://github.com/petehuang/Projects/blob/master/Text/stock_price.rb) [[masegaloeh (Python)]](https://github.com/masegaloeh/freetime-projects/blob/master/text/quote_tracker.py) [[tkwon123 (Ruby)]](https://github.com/Tkwon123/fetchstock) [[viktorahlstrom (Bash)]](https://github.com/viktorahlstrom/all/blob/master/scripts/stocks.sh)
 
