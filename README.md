@@ -126,7 +126,7 @@ Text
 
 **Post it Notes Program** - A program where you can add text reminders and post them. *Optional: You can have the program also add popup reminders.* [[rahulxxarora(python)]](https://github.com/rahulxxarora/Reminder)
 
-**Quote Tracker (market symbols etc)** - A program which can go out and check the current value of stocks for a list of symbols entered by the user. The user can set how often the stocks are checked. For CLI, show whether the stock has moved up or down. *Optional: If GUI, the program can show green up and red down arrows to show which direction the stock value has moved.* [[petehuang (Ruby)]](https://github.com/petehuang/Projects/blob/master/Text/stock_price.rb) [[masegaloeh (Python)]](https://github.com/masegaloeh/freetime-projects/blob/master/text/quote_tracker.py) [[tkwon123 (Ruby)]](https://github.com/Tkwon123/fetchstock) [[viktorahlstrom (Bash)]](https://github.com/viktorahlstrom/all/blob/master/scripts/stocks.sh)
+**Quote Tracker (market symbols etc)** - A program which can go out and check the current value of stocks for a list of symbols entered by the user. The user can set how often the stocks are checked. For CLI, show whether the stock has moved up or down. *Optional: If GUI, the program can show green up and red down arrows to show which direction the stock value has moved.* [[petehuang (Ruby)]](https://github.com/petehuang/Projects/blob/master/Text/stock_price.rb) [[masegaloeh (Python)]](https://github.com/masegaloeh/freetime-projects/blob/master/text/quote_tracker.py) [[tkwon123 (Ruby)]](https://github.com/Tkwon123/fetchstock) [[viktorahlstrom (Bash)]](https://github.com/viktorahlstrom/all/blob/master/scripts/stocks.sh)[[dotslash (Python)]](https://github.com/dotslash/Projects/blob/master/solutions/quotes.py)
 
 **Guestbook / Journal** - A simple application that allows people to add comments or write journal entries. It can allow comments or not and timestamps for all entries. Could also be made into a shout box. *Optional: Deploy it on Google App Engine or Heroku or any other PaaS (if possible, of course).*
 
@@ -138,7 +138,7 @@ Text
 
 **Markdown to HTML Converter** - Converts Markdown formatted text into HTML files. Implement basic tags like `p`, `strong`, `em` etc. *Optional: Implement all tags from [Markdown Syntax Docs](http://daringfireball.net/projects/markdown/syntax).* [[Drhealsgood (Python)]](https://github.com/Drhealsgood/miniprojects/blob/master/text_projects/auto_markup/markup.py)
 
-**Regex Query Tool** - A tool that allows the user to enter a text string and then in a separate control enter a regex pattern. It will run the regular expression against the source text and return any matches or flag errors in the regular expression. [[Rnhmjoj (Python)]](https://gist.github.com/Rnhmjoj/6140266)
+**Regex Query Tool** - A tool that allows the user to enter a text string and then in a separate control enter a regex pattern. It will run the regular expression against the source text and return any matches or flag errors in the regular expression. [[Rnhmjoj (Python)]](https://gist.github.com/Rnhmjoj/6140266)[[dotslash (Python [cl])]](https://github.com/dotslash/Projects/blob/master/solutions/regex.py) 
 
 Networking
 ---------
