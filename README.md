@@ -191,6 +191,7 @@ Threading
 **Bulk Thumbnail Creator** - Picture processing can take a bit of time for some transformations. Especially if the image is large. Create an image program which can take hundreds of images and converts them to a specified size in the background thread while you do other things. For added complexity, have one thread handling re-sizing, have another bulk renaming of thumbnails etc. [[averageprogrammer (Java)]](https://github.com/averageprogrammer/Bulk_Thumbnail_Creator)
 [[bhaskar4n(python)]](https://github.com/bhaskar4n/bulk-thumbnail-creator)
 [[SumedhArani(python)]](https://github.com/SumedhArani/Threading-Python)
+[[tushar-rishav(python)]](https://github.com/tushar-rishav/Pynail)
 Web
 ---------
 
