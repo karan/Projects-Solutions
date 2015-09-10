@@ -38,6 +38,8 @@ Numbers
 **Unit Converter (temp, currency, volume, mass and more)** - Converts various units between one another. The user enters the type of unit being entered, the type of unit they want to convert to and then the value. The program will then make the conversion. [[Drhealsgood (Python)]](https://github.com/Drhealsgood/miniprojects/blob/master/number_projects/conversion/conversions.py) [[desertwebdesigns (Python)]](https://bitbucket.org/desertwebdesigns/learn_python/src/master/Numbers/unit_convert.py) [[kurokuriboh (Java)]](https://github.com/kurokuriboh/Mega_Project_Solutions/tree/master/Numbers/Unit%20Converter)
 
 **Alarm Clock** - A simple clock where it plays a sound after X number of minutes/seconds or at a particular time. [[smthc (Python)]](https://github.com/smthc/mini_projects/blob/master/alarm.py) [[averageprogrammer (Java)]](https://github.com/averageprogrammer/Rooster) [[kingballer29 (Python)]](https://github.com/kingballer29/Programming/blob/master/alarmClock.py)
+[[rlingineni (C#)]](https://github.com/rlingineni/CsharpProblems/blob/master/alarmClock/alarmClock/Program.cs)
+
 
 **Distance Between Two Cities** - Calculates the distance between two cities and allows the user to specify a unit of distance. This program may require finding coordinates for the cities like latitude and longitude. [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Numbers/CityDistance.hs) [[petehuang (Ruby)]](https://github.com/petehuang/Projects/blob/master/Numbers/two_city_distance.rb) [[dabillox (Python)]](https://github.com/dabillox/pyprojects/blob/master/citydistance.py) [[kingballer29 (C)]](https://github.com/kingballer29/Programming/blob/master/distanceBetweenTwoCities.c)
 
