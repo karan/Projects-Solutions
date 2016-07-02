@@ -127,7 +127,7 @@ Text
 [[turlapatykaushik (Python)]](https://github.com/turlapatykaushik/Programs-and-codes/blob/master/problems/count_word_string.py)[Abhi0725(Python)](https://github.com/Abhi0725/word_counter/blob/master/word_counter.py)
 [[eush77(Befunge)]](https://github.com/eush77/Projects-Solutions/blob/solutions/Befunge/count-words.bf)[[rnikhil275 (Python)]](https://github.com/rnikhil275/scripts/blob/master/string.py)
 
-**Text Editor** - Notepad style application that can open, edit, and save text documents. *Optional: Add syntax highlighting and other features.* [[JLukeC (Python)]](https://github.com/jLukeC/advanced-text-editor) [[mouradmourafiq (c++/QT)]](https://github.com/mouradmourafiq/mnotepad) [[rasppie (Python)]](https://github.com/rasppie/Text_Editor/blob/master/texteditor.py)
+**Text Editor** - Notepad style application that can open, edit, and save text documents. *Optional: Add syntax highlighting and other features.* [[JLukeC (Python)]](https://github.com/jLukeC/advanced-text-editor) [[mouradmourafiq (c++/QT)]](https://github.com/mouradmourafiq/mnotepad) [[rasppie (Python)]](https://github.com/rasppie/Text_Editor/blob/master/texteditor.py)[[mandeepbhutani (Python)]](https://github.com/mandeepbhutani/MandeepPAD/blob/master/application.py)
 
 **RSS Feed Creator** - Given a link to RSS/Atom Feed, get all posts and display them. [[sriniavireddy (python)]](https://github.com/sriniavireddy/scripts-and-solutions/tree/master/Text/RSSfeedparser)
 
