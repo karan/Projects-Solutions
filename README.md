@@ -231,6 +231,7 @@ Files
 **Sort Excel/CSV File Utility** - Reads a file of records, sorts them, and then writes them back to the file. Allow the user to choose various sort style and sorting based on a particular field. [[vishwanath79 (Python)]](https://github.com/vishwanath79/ExcelSorter/blob/master/ExcelSorter.py)
 
 **Create Zip File Maker** - The user enters various files from different directories and the program zips them up into a zip file. *Optional: Apply actual compression to the files. Start with Huffman Algorithm.* [[averageprogrammer (Java)]](https://github.com/averageprogrammer/Zip_Up)
+[[sbrahma (Python)]] (https://github.com/sbrahma/python_projects/blob/master/Zip_file_maker.py)
 
 **PDF Generator** - An application which can read in a text file, html file or some other file and generates a PDF file out of it. Great for a web based service where the user uploads the file and the program returns a PDF of the file. *Optional: Deploy on GAE or Heroku if possible.*
 [[tushar-rishav (Python)]](https://github.com/tushar-rishav/code2pdf)
