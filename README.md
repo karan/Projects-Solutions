@@ -87,7 +87,7 @@ Graphs
 
 **Connected Graph** - Create a program which takes a graph as an input and outputs whether every node is connected or not.[[DiegoAscanio(Python)]](https://github.com/DiegoAscanio/python-graphs/blob/master/is_connected.py)
 
-**Dijkstra’s Algorithm** - Create a program that finds the shortest path through a graph using its edges. [[mouradmourafiq (Python)]](https://github.com/mouradmourafiq/data-analysis/blob/master/dijkstra.py)[[rahulxxarora(c++)]](https://github.com/rahulxxarora/SourceCodes/blob/master/Dijshaktra.cpp)
+**Dijkstra’s Algorithm** - Create a program that finds the shortest path through a graph using its edges. [[mouradmourafiq (Python)]](https://github.com/mouradmourafiq/data-analysis/blob/master/dijkstra.py)[[rahulxxarora(c++)]](https://github.com/rahulxxarora/SourceCodes/blob/master/Dijshaktra.cpp)[[prateekiiest(C)]](https://github.com/prateekiiest/SelfProjects/blob/master/1.c)
 
 **Minimum Spanning Tree** - Create a program which takes a connected, undirected graph with weights and outputs the minimum spanning tree of the graph i.e., a
 subgraph that is a tree, contains all the vertices, and the sum of its weights is the least possible. [[kiriakosv (Python)]](https://github.com/kiriakosv/Project_Solutions/tree/master/MinSpanTree)
