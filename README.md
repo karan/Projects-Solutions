@@ -217,7 +217,8 @@ Web
 
 **Content Management System** - Create a content management system (CMS) like Joomla, Drupal, PHP Nuke etc. Start small. *Optional: Allow for the addition of modules/addons.*
 
-**Web Board (Forum)** - Create a forum for you and your buddies to post, administer and share thoughts and ideas.
+**Web Board (Forum)** - Create a forum for you and your buddies to post, administer and share thoughts and ideas. 
+[[momm3 & harrisonlingren (Ruby on Rails)]](https://github.com/harrisonlingren/forum)
 
 **CAPTCHA Maker** - Ever see those images with letters a numbers when you signup for a service and then asks you to enter what you see? It keeps web bots from automatically signing up and spamming. Try creating one yourself for online forms.
 
