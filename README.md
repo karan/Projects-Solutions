@@ -139,7 +139,7 @@ Text
 
 **Fortune Teller (Horoscope)** - A program that checks your horoscope on various astrology sites and puts them together for you each day. [[petehuang (Ruby)]](https://github.com/petehuang/Projects/blob/master/Text/horoscope.rb) [[cahitonur (Python)]](https://github.com/cahitonur/mini-project/blob/master/horoscope/horoscope.py) [[tapasweni-pathak (Python)]](https://github.com/tapasweni-pathak/Scripts/blob/master/Your-Horoscope.py) [[viktorahlstrom (Bash)]](https://github.com/viktorahlstrom/all/blob/master/coding-problems-solved/projects-solutions/horoscope.sh)
 
-**Vigenere / Vernam / Ceasar Ciphers** - Functions for encrypting and decrypting data messages. Then send them to a friend. [[Rnhmjoj (Python)]](https://github.com/Rnhmjoj/Crypto) [[petehuang (Ruby)]](https://github.com/petehuang/Projects/blob/master/Text/cipher.rb) [[averageprogrammer (Java)]](https://github.com/averageprogrammer/Ciphers) [[Bhavika (C)]](https://github.com/Bhavikaso/Project1/blob/master/vigenere.c)
+**Vigenere / Vernam / Caesar Ciphers** - Functions for encrypting and decrypting data messages. Then send them to a friend. [[Rnhmjoj (Python)]](https://github.com/Rnhmjoj/Crypto) [[petehuang (Ruby)]](https://github.com/petehuang/Projects/blob/master/Text/cipher.rb) [[averageprogrammer (Java)]](https://github.com/averageprogrammer/Ciphers) [[Bhavika (C)]](https://github.com/Bhavikaso/Project1/blob/master/vigenere.c)
 
 **Random Gift Suggestions** - Enter various gifts for certain people when you think of them. When its time to give them a gift (xmas, birthday, anniversary) it will randomly pick one. *Optional: Suggest places you can get it (link to Amazon page?).*
 
