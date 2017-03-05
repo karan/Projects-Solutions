@@ -132,6 +132,7 @@ Text
 [[tokkebi(C)]](https://github.com/tokkebi/programming/blob/master/Count_Words_in_a_String/cntWords.c)
 
 **Text Editor** - Notepad style application that can open, edit, and save text documents. *Optional: Add syntax highlighting and other features.* [[JLukeC (Python)]](https://github.com/jLukeC/advanced-text-editor) [[mouradmourafiq (c++/QT)]](https://github.com/mouradmourafiq/mnotepad) [[rasppie (Python)]](https://github.com/rasppie/Text_Editor/blob/master/texteditor.py)
+[[tokkebi(Python)]](https://github.com/tokkebi/Notepad)
 
 **RSS Feed Creator** - Given a link to RSS/Atom Feed, get all posts and display them. [[sriniavireddy (python)]](https://github.com/sriniavireddy/scripts-and-solutions/tree/master/Text/RSSfeedparser)
 
