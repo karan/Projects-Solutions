@@ -225,6 +225,7 @@ Files
 ---------
 
 **Quiz Maker** - Make an application which takes various questions form a file, picked randomly, and puts together a quiz for students. Each quiz can be different and then reads a key to grade the quizzes.[[melvin0008 (PHP)]](https://github.com/melvin0008/quizcreator)
+[[othreecodes (Java)]](https://github.com/othreecodes/quizmaster)
 
 **File Explorer** - Create your own simple windows explorer program. Add feature(s) you always thought are missing from MS Windows Explorer or Mac Finder.
 
