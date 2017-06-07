@@ -211,7 +211,7 @@ Web
 [[chillaranand (python)]](https://github.com/ChillarAnand/Weather-on-Terminal) [[tapasweni-pathak (python)]](https://github.com/tapasweni-pathak/Scripts/blob/master/Weather.py) [[Tkwon123 (ruby)]](https://github.com/Tkwon123/whatweather) [[brahalla (Javascript)]](https://github.com/brahalla/BeautifulWeather)[[viktorahlstrom (Python)]](https://github.com/viktorahlstrom/pyweather)
 
 
-**Scheduled Auto Login and Action** - Make an application which logs into a given site on a schedule and invokes a certain action and then logs out. This can be useful for checking web mail, posting regular content, or getting info for other applications and saving it to your computer.
+**Scheduled Auto Login and Action** - Make an application which logs into a given site on a schedule and invokes a certain action and then logs out. This can be useful for checking web mail, posting regular content, or getting info for other applications and saving it to your computer.[Logan1x(python)] [https://github.com/Logan1x/MI_comm_thread_Bot]
 
 **E-Card Generator** - Make a site that allows people to generate their own little e-cards and send them to other people. Do not use Flash. Use a picture library and perhaps insightful mottos or quotes.
 
