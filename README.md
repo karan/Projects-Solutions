@@ -40,6 +40,7 @@ Numbers
 
 **Alarm Clock** - A simple clock where it plays a sound after X number of minutes/seconds or at a particular time. [[smthc (Python)]](https://github.com/smthc/mini_projects/blob/master/alarm.py) [[averageprogrammer (Java)]](https://github.com/averageprogrammer/Rooster) [[kingballer29 (Python)]](https://github.com/kingballer29/Programming/blob/master/alarmClock.py)
 [[rlingineni (C#)]](https://github.com/rlingineni/CsharpProblems/blob/master/alarmClock/alarmClock/Program.cs)
+[[joshua-deans (Python)]](https://github.com/joshua-deans/Sample-Projects/blob/master/alarm_clock.py)
 
 
 **Distance Between Two Cities** - Calculates the distance between two cities and allows the user to specify a unit of distance. This program may require finding coordinates for the cities like latitude and longitude. [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Numbers/CityDistance.hs) [[petehuang (Ruby)]](https://github.com/petehuang/Projects/blob/master/Numbers/two_city_distance.rb) [[dabillox (Python)]](https://github.com/dabillox/pyprojects/blob/master/citydistance.py) [[kingballer29 (C)]](https://github.com/kingballer29/Programming/blob/master/distanceBetweenTwoCities.c)
