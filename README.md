@@ -183,7 +183,7 @@ Classes
 
 **Shape Area and Perimeter Classes** - Create an abstract class called Shape and then inherit from it other shapes like diamond, rectangle, circle, triangle etc. Then have each class override the area and perimeter functionality to handle each shape type. [[averageprogrammer (Java)]](https://github.com/averageprogrammer/Shape_Calculator) [[masegaloeh (Python)]](https://github.com/masegaloeh/freetime-projects/blob/master/class/shape/shape.py) [[abadojack (Java)]](https://github.com/abadojack/Playground/tree/master/Projects-Solutions/Classes/Java/Shapes)
 
-**Flower Shop Ordering To Go** - Create a flower shop application which deals in flower objects and use those flower objects in a bouquet object which can then be sold. Keep track of the number of objects and when you may need to order more.
+**Flower Shop Ordering To Go** - Create a flower shop application which deals in flower objects and use those flower objects in a bouquet object which can then be sold. Keep track of the number of objects and when you may need to order more. [[apirobot (Python)]](https://github.com/apirobot/flower-shop/blob/master/flower_shop.py)
 
 **Family Tree Creator** - Create a class called Person which will have a name, when they were born and when (and if) they died. Allow the user to create these Person classes and put them into a family tree structure. Print out the tree to the screen. [[vogosvagen (C++)]](https://github.com/vogosvagen/Family-Tree-Creator)
 
