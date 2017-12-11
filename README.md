@@ -226,7 +226,7 @@ Files
 
 **Quiz Maker** - Make an application which takes various questions form a file, picked randomly, and puts together a quiz for students. Each quiz can be different and then reads a key to grade the quizzes.[[melvin0008 (PHP)]](https://github.com/melvin0008/quizcreator)
 
-**Remove comments from a cpp/c file**- make an application which takes a c or a cpp file and removes all the comments and make a new file. [ remove comments from a c/cpp file (c++) ](https://github.com/deep5050/remove-comment-from-cpp)
+**Remove comments from a cpp/c file**- make an program which takes a c or a cpp file and removes all the comments and make a new file. [ remove comments from a c/cpp file (c++) ](https://github.com/deep5050/remove-comment-from-cpp)
 
 
 
