@@ -226,6 +226,10 @@ Files
 
 **Quiz Maker** - Make an application which takes various questions form a file, picked randomly, and puts together a quiz for students. Each quiz can be different and then reads a key to grade the quizzes.[[melvin0008 (PHP)]](https://github.com/melvin0008/quizcreator)
 
+**Remove comments from a cpp/c file**- make an application which takes a c or a cpp file and removes all the comments and make a new file. [ remove cooments from cpp file (c++) ](https://github.com/deep5050/remove-comment-from-cpp)
+
+
+
 **File Explorer** - Create your own simple windows explorer program. Add feature(s) you always thought are missing from MS Windows Explorer or Mac Finder.
 
 **Sort Excel/CSV File Utility** - Reads a file of records, sorts them, and then writes them back to the file. Allow the user to choose various sort style and sorting based on a particular field. [[vishwanath79 (Python)]](https://github.com/vishwanath79/ExcelSorter/blob/master/ExcelSorter.py)
