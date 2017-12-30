@@ -38,7 +38,7 @@ Numbers
 
 **Unit Converter (temp, currency, volume, mass and more)** - Converts various units between one another. The user enters the type of unit being entered, the type of unit they want to convert to and then the value. The program will then make the conversion. [[Drhealsgood (Python)]](https://github.com/Drhealsgood/miniprojects/blob/master/number_projects/conversion/conversions.py) [[desertwebdesigns (Python)]](https://bitbucket.org/desertwebdesigns/learn_python/src/master/Numbers/unit_convert.py) [[kurokuriboh (Java)]](https://github.com/kurokuriboh/Mega_Project_Solutions/tree/master/Numbers/Unit%20Converter)
 
-**Alarm Clock** - A simple clock where it plays a sound after X number of minutes/seconds or at a particular time. [[smthc (Python)]](https://github.com/smthc/mini_projects/blob/master/alarm.py) [[averageprogrammer (Java)]](https://github.com/averageprogrammer/Rooster) [[kingballer29 (Python)]](https://github.com/kingballer29/Programming/blob/master/alarmClock.py)
+**Alarm Clock** - A simple clock where it plays a sound after X number of minutes/seconds or at a particular time. [[smthc (Python)]](https://github.com/smthc/mini_projects/blob/master/alarm.py) [[jthomasprogrammer (Java)]](https://github.com/jthomasprogrammer/Rooster) [[kingballer29 (Python)]](https://github.com/kingballer29/Programming/blob/master/alarmClock.py)
 [[rlingineni (C#)]](https://github.com/rlingineni/CsharpProblems/blob/master/alarmClock/alarmClock/Program.cs)
 
 
@@ -95,7 +95,7 @@ subgraph that is a tree, contains all the vertices, and the sum of its weights i
 Data Structures
 ---------
 
-**Inverted index** - An [Inverted Index](http://en.wikipedia.org/wiki/Inverted_index) is a data structure used to create full text search. Given a set of text files, implement a program to create an inverted index. Also create a user interface to do a search using that inverted index which returns a list of files that contain the query term / terms. The search index can be in memory. [[averageprogrammer (Java)]](https://github.com/averageprogrammer/Word_Finder) [[anubhavmaity (Python)]](https://github.com/anubhavmaity/FindWordInFiles)[[smac89 (C++)]](https://gist.github.com/smac89/e9fdfaa83f6659480b9a) [[gatsbydhn (c++)]](https://github.com/gatsbydhn/myToy/blob/master/invertedIndex.cpp#L1)
+**Inverted index** - An [Inverted Index](http://en.wikipedia.org/wiki/Inverted_index) is a data structure used to create full text search. Given a set of text files, implement a program to create an inverted index. Also create a user interface to do a search using that inverted index which returns a list of files that contain the query term / terms. The search index can be in memory. [[jthomasprogrammer (Java)]](https://github.com/jthomasprogrammer/Word_Finder) [[anubhavmaity (Python)]](https://github.com/anubhavmaity/FindWordInFiles)[[smac89 (C++)]](https://gist.github.com/smac89/e9fdfaa83f6659480b9a) [[gatsbydhn (c++)]](https://github.com/gatsbydhn/myToy/blob/master/invertedIndex.cpp#L1)
 [[humbhenri (Go)]](https://github.com/humbhenri/karanProjectSolutions/tree/master/invertedIndex)
 
 Text
@@ -139,7 +139,7 @@ Text
 
 **Fortune Teller (Horoscope)** - A program that checks your horoscope on various astrology sites and puts them together for you each day. [[petehuang (Ruby)]](https://github.com/petehuang/Projects/blob/master/Text/horoscope.rb) [[cahitonur (Python)]](https://github.com/cahitonur/mini-project/blob/master/horoscope/horoscope.py) [[tapasweni-pathak (Python)]](https://github.com/tapasweni-pathak/Scripts/blob/master/Your-Horoscope.py) [[viktorahlstrom (Bash)]](https://github.com/viktorahlstrom/all/blob/master/coding-problems-solved/projects-solutions/horoscope.sh)
 
-**Vigenere / Vernam / Ceasar Ciphers** - Functions for encrypting and decrypting data messages. Then send them to a friend. [[Rnhmjoj (Python)]](https://github.com/Rnhmjoj/Crypto) [[petehuang (Ruby)]](https://github.com/petehuang/Projects/blob/master/Text/cipher.rb) [[averageprogrammer (Java)]](https://github.com/averageprogrammer/Ciphers) [[Bhavika (C)]](https://github.com/Bhavikaso/Project1/blob/master/vigenere.c)
+**Vigenere / Vernam / Ceasar Ciphers** - Functions for encrypting and decrypting data messages. Then send them to a friend. [[Rnhmjoj (Python)]](https://github.com/Rnhmjoj/Crypto) [[petehuang (Ruby)]](https://github.com/petehuang/Projects/blob/master/Text/cipher.rb) [[jthomasprogrammer (Java)]](https://github.com/jthomasprogrammer/Ciphers) [[Bhavika (C)]](https://github.com/Bhavikaso/Project1/blob/master/vigenere.c)
 
 **Random Gift Suggestions** - Enter various gifts for certain people when you think of them. When its time to give them a gift (xmas, birthday, anniversary) it will randomly pick one. *Optional: Suggest places you can get it (link to Amazon page?).*
 
@@ -157,7 +157,7 @@ Networking
 
 **Port Scanner** - Enter an IP address and a port range where the program will then attempt to find open ports on the given computer by connecting to each of them. On any successful connections mark the port as open.[[enessenel (Python)]](https://github.com/enessenel/Small-Projects/blob/master/PortScanner.py) [[mayankj08 (Python)]](https://github.com/mayankj08/Python-Programs/blob/master/open_ports.py) [[Rnhmjoj (Python)]](https://gist.github.com/Rnhmjoj/8409734)[[jbruno2 (C++)]](https://github.com/jbruno2/SimplePortScanner/blob/master/portscanner.cpp) [[dawdler (python)]](https://github.com/dawdler/Projects/blob/master/port_scanner.py) [[smd519 (c)]](https://github.com/smd519/Networking_Basics/tree/master/Port_Scanner)
 
-**Mail Checker (POP3 / IMAP)** - The user enters various account information include web server and IP, protocol type (POP3 or IMAP) and the application will check for email at a given interval. [[averageprogrammer (Java)]](https://github.com/averageprogrammer/Mail_Checker)
+**Mail Checker (POP3 / IMAP)** - The user enters various account information include web server and IP, protocol type (POP3 or IMAP) and the application will check for email at a given interval. [[jthomasprogrammer (Java)]](https://github.com/jthomasprogrammer/Mail_Checker)
 
 **Country from IP Lookup** - Enter an IP address and find the country that IP is registered in. *Optional: Find the Ip automatically.* [[Hash-Collision (Python)]](https://github.com/Hash-Collision/Projects/blob/master/Networking/country_from_ip.py) [[tapasweni-pathak (Python)]](https://github.com/tapasweni-pathak/Scripts/blob/master/Locate-Me.py) [[dotslash (Python)]](https://github.com/dotslash/Projects/blob/master/solutions/ip_lookup.py) [[smd519 (c)]](https://github.com/smd519/Networking_Basics/tree/master/Country_from_IP_Lookup) [[viktorahlstrom (Python)]](https://github.com/viktorahlstrom/pythonscripts/blob/master/iplocator.py)
 
@@ -181,7 +181,7 @@ Classes
 
 **Image Gallery** - Create an image abstract class and then a class that inherits from it for each image type. Put them in a program which displays them in a gallery style format for viewing.
 
-**Shape Area and Perimeter Classes** - Create an abstract class called Shape and then inherit from it other shapes like diamond, rectangle, circle, triangle etc. Then have each class override the area and perimeter functionality to handle each shape type. [[averageprogrammer (Java)]](https://github.com/averageprogrammer/Shape_Calculator) [[masegaloeh (Python)]](https://github.com/masegaloeh/freetime-projects/blob/master/class/shape/shape.py) [[abadojack (Java)]](https://github.com/abadojack/Playground/tree/master/Projects-Solutions/Classes/Java/Shapes)
+**Shape Area and Perimeter Classes** - Create an abstract class called Shape and then inherit from it other shapes like diamond, rectangle, circle, triangle etc. Then have each class override the area and perimeter functionality to handle each shape type. [[jthomasprogrammer (Java)]](https://github.com/jthomasprogrammer/Shape_Calculator) [[masegaloeh (Python)]](https://github.com/masegaloeh/freetime-projects/blob/master/class/shape/shape.py) [[abadojack (Java)]](https://github.com/abadojack/Playground/tree/master/Projects-Solutions/Classes/Java/Shapes)
 
 **Flower Shop Ordering To Go** - Create a flower shop application which deals in flower objects and use those flower objects in a bouquet object which can then be sold. Keep track of the number of objects and when you may need to order more.
 
@@ -192,7 +192,7 @@ Threading
 
 **Create A Progress Bar for Downloads** - Create a progress bar for applications that can keep track of a download in progress. The progress bar will be on a separate thread and will communicate with the main thread using delegates. [[ScottKolo (Go)]](https://github.com/ScottKolo/GoProjects/blob/master/Threading/progress.go)
 
-**Bulk Thumbnail Creator** - Picture processing can take a bit of time for some transformations. Especially if the image is large. Create an image program which can take hundreds of images and converts them to a specified size in the background thread while you do other things. For added complexity, have one thread handling re-sizing, have another bulk renaming of thumbnails etc. [[averageprogrammer (Java)]](https://github.com/averageprogrammer/Bulk_Thumbnail_Creator)
+**Bulk Thumbnail Creator** - Picture processing can take a bit of time for some transformations. Especially if the image is large. Create an image program which can take hundreds of images and converts them to a specified size in the background thread while you do other things. For added complexity, have one thread handling re-sizing, have another bulk renaming of thumbnails etc. [[jthomasprogrammer (Java)]](https://github.com/jthomasprogrammer/Bulk_Thumbnail_Creator)
 [[bhaskar4n(python)]](https://github.com/bhaskar4n/bulk-thumbnail-creator)
 [[SumedhArani(python)]](https://github.com/SumedhArani/Threading-Python)
 [[tushar-rishav(python)]](https://github.com/tushar-rishav/Pynail)
@@ -205,7 +205,7 @@ Web
 
 **Online White Board** - Create an application which allows you to draw pictures, write notes and use various colors to flesh out ideas for projects. *Optional: Add feature to invite friends to collaborate on a white board online.*
 
-**Get Atomic Time from Internet Clock** - This program will get the true atomic time from an atomic time clock on the Internet. Use any one of the atomic clocks returned by a simple Google search. [[anggiaj (Go)]](https://github.com/anggiaj/Projects/blob/master/Web/time.go) [[averageprogrammer (Java)]](https://github.com/averageprogrammer/Atomic_Time)[[rnikhil275 (Python)]](https://github.com/rnikhil275/scripts/blob/master/time.py)
+**Get Atomic Time from Internet Clock** - This program will get the true atomic time from an atomic time clock on the Internet. Use any one of the atomic clocks returned by a simple Google search. [[anggiaj (Go)]](https://github.com/anggiaj/Projects/blob/master/Web/time.go) [[jthomasprogrammer (Java)]](https://github.com/jthomasprogrammer/Atomic_Time)[[rnikhil275 (Python)]](https://github.com/rnikhil275/scripts/blob/master/time.py)
 
 **Fetch Current Weather** - Get the current weather for a given zip/postal code. *Optional: Try locating the user automatically.*
 [[chillaranand (python)]](https://github.com/ChillarAnand/Weather-on-Terminal) [[tapasweni-pathak (python)]](https://github.com/tapasweni-pathak/Scripts/blob/master/Weather.py) [[Tkwon123 (ruby)]](https://github.com/Tkwon123/whatweather) [[brahalla (Javascript)]](https://github.com/brahalla/BeautifulWeather)[[viktorahlstrom (Python)]](https://github.com/viktorahlstrom/pyweather)
@@ -230,7 +230,7 @@ Files
 
 **Sort Excel/CSV File Utility** - Reads a file of records, sorts them, and then writes them back to the file. Allow the user to choose various sort style and sorting based on a particular field. [[vishwanath79 (Python)]](https://github.com/vishwanath79/ExcelSorter/blob/master/ExcelSorter.py)
 
-**Create Zip File Maker** - The user enters various files from different directories and the program zips them up into a zip file. *Optional: Apply actual compression to the files. Start with Huffman Algorithm.* [[averageprogrammer (Java)]](https://github.com/averageprogrammer/Zip_Up)
+**Create Zip File Maker** - The user enters various files from different directories and the program zips them up into a zip file. *Optional: Apply actual compression to the files. Start with Huffman Algorithm.* [[jthomasprogrammer (Java)]](https://github.com/jthomasprogrammer/Zip_Up)
 [[sbrahma (Python)]] (https://github.com/sbrahma/python_projects/blob/master/Zip_file_maker.py)
 
 **PDF Generator** - An application which can read in a text file, html file or some other file and generates a PDF file out of it. Great for a web based service where the user uploads the file and the program returns a PDF of the file. *Optional: Deploy on GAE or Heroku if possible.*
