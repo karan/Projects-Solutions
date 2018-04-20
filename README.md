@@ -175,7 +175,7 @@ Classes
 **Bank Account Manager** - Create a class called Account which will be an abstract class for three other classes called CheckingAccount, SavingsAccount and BusinessAccount. Manage credits and debits from these accounts through an ATM style program. [[Daytron (Python)]](https://github.com/Daytron/Projects/blob/master/Classes/bank_account_manager.py) [[viktorahlstrom (Bash)]](https://github.com/viktorahlstrom/all/blob/master/coding-problems-solved/projects-solutions/bank_manager/bank_manager.sh)
 
 **Patient / Doctor Scheduler** - Create a patient class and a doctor class. Have a doctor that can handle multiple patients and setup a scheduling program where a doctor can only handle 16 patients during an 8 hr work day.
-[[rnikhil275]](https://github.com/rnikhil275/scripts/blob/master/schedule.py)
+[[rnikhil275 (Python)]](https://github.com/rnikhil275/scripts/blob/master/schedule.py)
 
 **Recipe Creator and Manager** - Create a recipe class with ingredients and a put them in a recipe manager program that organizes them into categories like deserts, main courses or by ingredients like chicken, beef, soups, pies etc.
 
