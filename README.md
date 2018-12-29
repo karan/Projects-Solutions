@@ -147,6 +147,9 @@ Text
 
 **Regex Query Tool** - A tool that allows the user to enter a text string and then in a separate control enter a regex pattern. It will run the regular expression against the source text and return any matches or flag errors in the regular expression. [[Rnhmjoj (Python)]](https://gist.github.com/Rnhmjoj/6140266)[[dotslash (Python [cl])]](https://github.com/dotslash/Projects/blob/master/solutions/regex.py)
 
+**Google Case Problem** - Converts a given string to google case.A google case string is a string in which all the words are converted to upper case just leaving the initial letters of each word (ex:gOOGLE cASE).
+(https://github.com/Amanjakhetiya/gOOGLE-cASE.c/blob/master/googlecase.c) [[Amanjakhetiya(C++)]]
+
 Networking
 ---------
 
