@@ -1,6 +1,6 @@
 This repo links to solutions of [Projects](https://github.com/thekarangoel/Projects) written by other users in any language. See [how to contribute](https://github.com/thekarangoel/Projects/blob/master/CONTRIBUTING.md) to this repo.
 
-=========================================
+-----------------
 
 Numbers
 ---------
@@ -196,6 +196,7 @@ Threading
 [[bhaskar4n(python)]](https://github.com/bhaskar4n/bulk-thumbnail-creator)
 [[SumedhArani(python)]](https://github.com/SumedhArani/Threading-Python)
 [[tushar-rishav(python)]](https://github.com/tushar-rishav/Pynail)
+
 Web
 ---------
 
