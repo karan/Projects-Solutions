@@ -276,7 +276,7 @@ Graphics and Multimedia
 [[Tushar(python)]](https://github.com/tushar-rishav/PyLogo)
 
 
-**GIF Creator** A program that puts together multiple images (PNGs, JPGs, TIFFs) to make a smooth GIF that can be exported. *Optional: Make the program convert small video files to GIFs as well.*
+**GIF Creator** A program that puts together multiple images (PNGs, JPGs, TIFFs) to make a smooth GIF that can be exported. *Optional: Make the program convert small video files to GIFs as well.* [[gatchrat (Java)]](https://github.com/gatchrat/gifH)
 
 Security
 -------------
