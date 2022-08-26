@@ -1,4 +1,4 @@
-This repo links to solutions of [Projects](https://github.com/thekarangoel/Projects) written by other users in any language. See [how to contribute](https://github.com/thekarangoel/Projects/blob/master/CONTRIBUTING.md) to this repo
+This repo links to solutions of [Projects](https://github.com/thekarangoel/Projects) written by other users in any language. See [how to contribute](https://github.com/thekarangoel/Projects/blob/master/CONTRIBUTING.md) to this repo.
 
 =========================================
 
