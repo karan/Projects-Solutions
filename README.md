@@ -65,6 +65,10 @@ Numbers
 
 **Fast Exponentiation** - Ask the user to enter 2 integers a and b and output a^b (i.e. pow(a,b)) in O(lg n) time complexity. [[chrislyc1991(C++)]](https://github.com/chrislyc1991/project-1/blob/master/FastExpo.cpp) [[korabum (Python)]](https://github.com/korabum/Projects/blob/master/Numbers/power.py)
 
+**Binary Code Guess** -The user has a secret code composed of n bits (each bit is either '0' or '1'). The program attempts to determine this secret code by iteratively guessing and refining its guesses 
+based on feedback from the user. [[octocat (C++)]](https://github.com/Ahmed-Shahzad10/Code-Guessing-Game/blob/main/code.cpp) [[Ahmed-Shahzad10 (C++)]]((https://github.com/Ahmed-Shahzad10/Code-Guessing-Game/blob/main/code.cpp)
+
+
 Classic Algorithms
 -----------------
 
